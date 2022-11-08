@@ -214,7 +214,7 @@ footer a {
 	 height: 0;
 	 border-top: 7px solid transparent;
 	 border-bottom: 7px solid transparent;
-	 border-left: 7px solid #328eff;
+	 border-left: 7px solid #FFA07A;
 }
  #timeline .timeline-item .timeline-content.right {
 	 float: right;
@@ -224,11 +224,11 @@ footer a {
 	 right: 45%;
 	 left: inherit;
 	 border-left: 0;
-	 border-right: 7px solid #328eff;
+	 border-right: 7px solid #FFA07A;
 }
  .btn {
-	 background-color: #328eff;
-   border: 2px solid #328eff;
+	 background-color: #FFA07A;
+   border: 2px solid #FFA07A;
    color: #fff;
    border-radius: 0;
 
@@ -294,7 +294,7 @@ footer a {
   left: 0;
   height: 50px;
   padding: 10px;
-  background: #328eff;
+  background: #FFA07A;
   border: 0;
   border-radius: 0;
 }
