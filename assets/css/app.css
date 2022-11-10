@@ -32,7 +32,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #FFDAB9, #FFA07A);
+  background: linear-gradient(to left, #e1c1de7d, #8547807d);
   min-height: 350px;
   color: #fff;
   display: flex;
@@ -82,16 +82,16 @@ footer a {
 }
 
 .container-color {
-  background-color: #FFA07A;
+  background-color: #8547807d;
 }
 
 .container-dark {
-  background-color: #FFA07A;
+  background-color: #8547807d;
 }
 
 .card-title {
   margin-top: 50px;
-  color: #FFA07A;
+  color: #8547807d;
   text-align: center;
 }
 
@@ -100,7 +100,7 @@ footer a {
 }
 
 .card-icon{
-  color: #FFA07A;
+  color: #8547807d;
   font-size: 50px;
 }
 
@@ -158,7 +158,7 @@ footer a {
 	 content: "";
 	 width: 3px;
 	 height: 100%;
-	 background: #E9967A;
+	 background: #8547807d;
 	 left: 50%;
 	 top: 0;
 	 position: absolute;
@@ -174,7 +174,7 @@ footer a {
 	 position: relative;
 }
  #timeline .timeline-item .timeline-icon {
-	 background: #E9967A;
+	 background: #8547807d;
 	 width: 50px;
 	 height: 50px;
 	 position: absolute;
@@ -196,7 +196,7 @@ footer a {
 }
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
-	 background: #E9967A;
+	 background: #8547807d;
 	 color: #fff;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
@@ -214,7 +214,7 @@ footer a {
 	 height: 0;
 	 border-top: 7px solid transparent;
 	 border-bottom: 7px solid transparent;
-	 border-left: 7px solid #FFA07A;
+	 border-left: 7px solid #8547807d;
 }
  #timeline .timeline-item .timeline-content.right {
 	 float: right;
@@ -224,11 +224,11 @@ footer a {
 	 right: 45%;
 	 left: inherit;
 	 border-left: 0;
-	 border-right: 7px solid #FFA07A;
+	 border-right: 7px solid #8547807d;
 }
  .btn {
-	 background-color: #FFA07A;
-   border: 2px solid #FFA07A;
+	 background-color: #8547807d;
+   border: 2px solid #8547807d;
    color: #fff;
    border-radius: 0;
 
@@ -251,7 +251,7 @@ footer a {
 		 left: 10%;
 		 margin-left: -6px;
 		 border-left: 0;
-		 border-right: 7px solid #E9967A;
+		 border-right: 7px solid #8547807d;
 	}
 	 #timeline .timeline-item .timeline-icon {
 		 left: 0;
@@ -294,7 +294,7 @@ footer a {
   left: 0;
   height: 50px;
   padding: 10px;
-  background: #FFA07A;
+  background: #8547807d;
   border: 0;
   border-radius: 0;
 }
